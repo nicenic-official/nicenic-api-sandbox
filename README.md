@@ -2,7 +2,7 @@
 
 Official getting-started guide for testing a NiceNIC Domain API integration.
 
-Building a hosting platform, reseller service or domain management application? Start with the [NiceNIC Sandbox documentation](https://nicenic.com/reseller/apiv2.php?api_type=sandbox&sandbox=1).
+Building a hosting platform, reseller service or domain management application? Start with the [NiceNIC Sandbox documentation](https://nicenic.com/reseller/api-sandbox.php).
 
 ## Repository Scope
 
